@@ -1,7 +1,10 @@
-<script setup></script>
-
 <template>
-  
+  <pageTitle></pageTitle>
 </template>
 
-<style scoped></style>
+<script setup>
+  import pageTitle from "./components/title.vue"
+</script>
+
+<style scoped>
+</style>
